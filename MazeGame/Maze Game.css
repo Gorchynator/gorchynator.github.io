@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+body {
+    margin: 0;
+}
+.hidden {
+    display: none !important;
+}
+.win {
+    color: white;
+    font-size: 64px;
+}
+.winner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    height: 100vh;
+    width: 100vw;
+}
