@@ -1,0 +1,19 @@
+#player {
+    height: 200px;
+    position: relative;
+}
+#copper-coin {
+    height: 25px;
+    position: relative;
+}
+#silver-coin {
+    height: 50px;
+    position: relative;
+}
+#gold-coin {
+    height: 100px;
+    position: relative;
+}
+h1 {
+    text-align: center;
+}
